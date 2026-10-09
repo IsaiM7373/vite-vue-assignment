@@ -29,7 +29,7 @@ const count = ref(0)
       
       
       
-      <h2>Connect with ME isai macias the greatest coder ever</h2>
+      <h2>Connect with ME isai macias </h2>
       <p>This application is built with Vite and Vue. On second thought dont contact me</p>
       
     </div>
